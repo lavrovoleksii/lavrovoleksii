@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @lavrovoleksii
+# 👋 Hi, I'm Alex :)
 
 Front-end React.js Developer with nearly 4 years of experience. Passionate about creating responsive and dynamic web applications that enhance user experience and meet business objectives.
 
